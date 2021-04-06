@@ -5,7 +5,7 @@ This repository contains the final project submissions made by David Sluiter, Sa
 [Project Overview Wiki Page](https://github.com/CU-ECEN-5823/f20-final-project/wiki/Project-Overview)
 
 ## Project Schedule
-[Project Schedule Page](https://github.com/CU-ECEN-5823/f20-final-project/wiki/Final-Project-Schedule-Page)
+[Project Schedule Page](https://github.com/CU-ECEN-5823/f20-final-project/wiki/Project-Schedule)
 
 ## Team Members
 David Sluiter
